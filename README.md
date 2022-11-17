@@ -7,3 +7,4 @@ Extensible Messaging and Presence Protocol é um protocolo aberto, extensível, 
 2) sudo docker run --name ejabberd -p 5222:5222 ejabberd/ecs
 3) sudo docker exec -it ejabberd bin/ejabberdctl register admin localhost password
 4) sudo docker exec -it ejabberd bin/ejabberdctl register hussein localhost password
+5) npm install simple-xmpp
